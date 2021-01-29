@@ -1,0 +1,4 @@
+#Thu Jan 28 23:14:08 BRST 2021
+base.0=D\:\\UnityProjects\\Tetris - Berimbau Game Studio\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
